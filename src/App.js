@@ -2,7 +2,7 @@ import React from 'react';
 import "./App.css"
 import Slider from "./Slider"
 import Nav from "./Nav"
-import Rnav from "./Rnav"
+
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
       <Nav />
       <Slider />
 
-      {/* <Rnav /> */}
+      
     </div>
   );
 }
